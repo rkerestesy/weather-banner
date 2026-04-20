@@ -1,2 +1,3 @@
-[Severe] Red Flag Warning (FL)
-Red Flag Warning issued April 20 at 2:53PM EDT until April 21 at 8:00PM EDT by NWS Jacksonville FL
+🔴 [Severe] Red Flag Warning (FL)
+Inland Nassau; Gilchrist; Northern Columbia; Southeastern Columbia; Southwestern Columbia
+Issued: 2026-04-21T11:00:00-04:00 → Expires: 2026-04-20T20:00:00-04:00
